@@ -3,8 +3,6 @@
   align-items: center;
   flex-direction: column;
   margin-top: 12.5%;
-  position:static;
-  justify-content: center;
 }
 .button{
   padding:15px 0 25px 5px;
@@ -22,8 +20,6 @@
   display: flex;
   justify-content: space-around;
 }
-
-
 
 .xy{
   display: flex;
@@ -69,7 +65,7 @@ header a{
   color: rgba(0,0,0,0.87);
   display:inline-block;
   font-family: arial, sans-serif;
-  font-size: 13px
+  font-size: 13px;
 }
 header a p{color:white;}
 
@@ -77,7 +73,6 @@ header a:link
 {
   text-decoration: none;
 }
-
 
 header a:hover
 {
@@ -112,7 +107,7 @@ background: blue;
 
 .elementheader:hover
 {
-  opacity: 0.5
+  opacity: 0.5;
 }
 
 
@@ -120,20 +115,19 @@ background: blue;
 .elementheader1
 {
 color:rgba(0,0,0,0.87);
-text-decoration:none
+text-decoration:none;
 text-decoration:none;}
 
 
 .elementheader2
 {
 color:rgba(0,0,0,0.87);
-text-decoration:none}
+text-decoration:none;
+}
 
 body{
-margin:0;}
-
-
-
+margin:0;
+}
 
 footer{
 background-color: #f5f5f5;
