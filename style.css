@@ -46,14 +46,13 @@
   height:35px;
 }
 
-
-
 .Top
   {
 
 margin-bottom: 12.5%;
 margin-left:200px;
   }
+
 header a{
   text-decoration:underline;
 }
@@ -63,6 +62,7 @@ header a{
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
+  margin-top: -50px;
 }
 header a{
 
