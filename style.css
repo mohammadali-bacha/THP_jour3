@@ -35,6 +35,11 @@
   justify-content: center;
 }
 
+.formulaire{
+  display:inline-block;
+  display: flex;
+  justify-content: center;
+  box-shadow: 1px 1px 1px grey;
 }
 .formulaire .champ{
   width:600px;
