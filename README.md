@@ -4,7 +4,9 @@ Pair programming avec :
 
 
 eesydo: https://github.com/eesydo --> partie Header
+
 oseus:  https://github.com/oseus  --> partie Millieu/ optimisation CSS
+
 Hug-O:  https://github.com/Hug-O  --> partie Footer
 
 
