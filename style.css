@@ -132,41 +132,8 @@ text-decoration:none}
 body{
 margin:0;}
 
-#conteneur{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
 
-  position:static;
-  justify-content: center;
-}
-.button{
-  padding:15px 0 25px 5px;
-	font:bold 25px Arial;
-	color:#555;
-	border-radius:2px;
-  display: flex;
-  justify-content: space-around;
-}
 
-.button2{
-  padding:15px 0 25px 5px;
-	font:bold 25px Arial;
-	color:#555;
-	border-radius:2px;
-  display: flex;
-  justify-content: space-around;
-}
-
-.xy{
-  display: flex;
-}
-#searchbar{
-  position:relative;
-  width:1040px;
-  height:auto;
-  justify-content: center;
-}
 
 footer{
 background-color: #f5f5f5;
